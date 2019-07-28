@@ -5,9 +5,20 @@
 
 **To start the execution follow this step:-**
 
-### Client as react-client dir
+>### **Client as react-client dir**
 	npm start
-### Server ad graphql-server dir
+
+Before start the exection make sure you have already install node.
+
+	npm install
+
+>### **Server ad graphql-server dir**
 	node server
 
-Thank you :simple_smile: :simple_smile:
+Before start server make sure following lib should install for gql server :-
+
+	npm install express express-graphql graphql graphql-date cors --save
+
+    npm install graphql-tag --save
+
+Thank you :slightly_frowning_face: 
